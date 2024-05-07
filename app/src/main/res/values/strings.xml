@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPawfectPetsApplication</string>
+    <string name="feed_thank_you">Thank you, I have eaten enough</string>
+    <string name="play_with_me">Please play with me!</string>
+    <string name="clean_nice_and_clean">I feel clean now, Thank you!</string>
+    <string name="play_that_was_fun">That was fun!</string>
+    <string name="clean_after_play">Please clean me, I feel dirty.</string>
+</resources>
